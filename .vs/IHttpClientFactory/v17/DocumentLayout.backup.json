@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\IHttpClientFactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE23FAB-0670-4D69-B886-EF93C40EE38D}|IHttpClientFactory\\IHttpClientFactory.csproj|d:\\projects\\ihttpclientfactory\\ihttpclientfactory\\controller\\clientfactorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE23FAB-0670-4D69-B886-EF93C40EE38D}|IHttpClientFactory\\IHttpClientFactory.csproj|solutionrelative:ihttpclientfactory\\controller\\clientfactorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE23FAB-0670-4D69-B886-EF93C40EE38D}|IHttpClientFactory\\IHttpClientFactory.csproj|d:\\projects\\ihttpclientfactory\\ihttpclientfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE23FAB-0670-4D69-B886-EF93C40EE38D}|IHttpClientFactory\\IHttpClientFactory.csproj|solutionrelative:ihttpclientfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE23FAB-0670-4D69-B886-EF93C40EE38D}|IHttpClientFactory\\IHttpClientFactory.csproj|d:\\projects\\ihttpclientfactory\\ihttpclientfactory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADE23FAB-0670-4D69-B886-EF93C40EE38D}|IHttpClientFactory\\IHttpClientFactory.csproj|solutionrelative:ihttpclientfactory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADE23FAB-0670-4D69-B886-EF93C40EE38D}|IHttpClientFactory\\IHttpClientFactory.csproj|d:\\projects\\ihttpclientfactory\\ihttpclientfactory\\settings\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADE23FAB-0670-4D69-B886-EF93C40EE38D}|IHttpClientFactory\\IHttpClientFactory.csproj|solutionrelative:ihttpclientfactory\\settings\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\IHttpClientFactory\\IHttpClientFactory\\Program.cs",
+              "RelativeDocumentMoniker": "IHttpClientFactory\\Program.cs",
+              "ToolTip": "D:\\Projects\\IHttpClientFactory\\IHttpClientFactory\\Program.cs",
+              "RelativeToolTip": "IHttpClientFactory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:06:49.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\Projects\\IHttpClientFactory\\IHttpClientFactory\\Settings\\Data.cs",
+              "RelativeDocumentMoniker": "IHttpClientFactory\\Settings\\Data.cs",
+              "ToolTip": "D:\\Projects\\IHttpClientFactory\\IHttpClientFactory\\Settings\\Data.cs",
+              "RelativeToolTip": "IHttpClientFactory\\Settings\\Data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:06:38.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\IHttpClientFactory\\IHttpClientFactory\\appsettings.json",
+              "RelativeDocumentMoniker": "IHttpClientFactory\\appsettings.json",
+              "ToolTip": "D:\\Projects\\IHttpClientFactory\\IHttpClientFactory\\appsettings.json",
+              "RelativeToolTip": "IHttpClientFactory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T12:04:58.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientFactoryController.cs",
+              "DocumentMoniker": "D:\\Projects\\IHttpClientFactory\\IHttpClientFactory\\Controller\\ClientFactoryController.cs",
+              "RelativeDocumentMoniker": "IHttpClientFactory\\Controller\\ClientFactoryController.cs",
+              "ToolTip": "D:\\Projects\\IHttpClientFactory\\IHttpClientFactory\\Controller\\ClientFactoryController.cs",
+              "RelativeToolTip": "IHttpClientFactory\\Controller\\ClientFactoryController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T12:05:45.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 270,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
