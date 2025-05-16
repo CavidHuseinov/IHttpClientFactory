@@ -1,0 +1,1 @@
+Link Description hissesinin altinda qeyd edilib
